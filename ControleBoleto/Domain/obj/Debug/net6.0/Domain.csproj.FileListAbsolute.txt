@@ -1,0 +1,12 @@
+C:\Financeiro2\ControleBoleto\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Financeiro2\ControleBoleto\Domain\bin\Debug\net6.0\Domain.dll
+C:\Financeiro2\ControleBoleto\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Financeiro2\ControleBoleto\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Financeiro2\ControleBoleto\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Financeiro2\ControleBoleto\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Financeiro2\ControleBoleto\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Financeiro2\ControleBoleto\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Financeiro2\ControleBoleto\Domain\obj\Debug\net6.0\Domain.dll
+C:\Financeiro2\ControleBoleto\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Financeiro2\ControleBoleto\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Financeiro2\ControleBoleto\Domain\obj\Debug\net6.0\ref\Domain.dll
